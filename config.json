@@ -1,0 +1,7 @@
+{
+  "baseUiUrl": "https://testomate-test.web.app/home",
+  "baseUrl": "https://us-central1-testomate-test.cloudfunctions.net/api",
+  "baseUrlLocal": "http://localhost:5000/testomate-test/us-central1/api",
+  "chromedriverPath": "/Users/ehudkon/Desktop/DefaultSeleniumJavaProject 2/src/main/resources/chromedriver_2"
+
+}
